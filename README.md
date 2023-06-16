@@ -54,3 +54,5 @@ Mention any contributors, libraries, or resources that have been helpful during 
 
 - [Lana Saiful Aqil](https://github.com/lazaaq)
 - [Dea Alifia Maharani S.](https://github.com/deaalifiams)
+
+Thank you all for your dedication, expertise, and continuous support!
